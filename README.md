@@ -16,7 +16,7 @@ or
 
 Steps to install Newman and Run:
 1. npm install -g newman
-2. Clone the repository ""https://github.com/Charanjit55588/api-newman.git
+2. Clone the repository "https://github.com/Charanjit55588/api-newman.git"
 3. newman run Postman\ Echo.postman_collection.json
 
 All the tests will be executed in the terminal.
